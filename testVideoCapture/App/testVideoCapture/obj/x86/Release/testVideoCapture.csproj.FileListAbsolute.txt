@@ -1,0 +1,948 @@
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.exe
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\resources.pri
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\AppxManifest.xml
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Core\AppxManifest.xml
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Core\testVideoCapture.exe
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.build.appxrecipe
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.CSharp.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Core.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Web.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Windows.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.Linq.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.Serialization.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.VisualBasic.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.Win32.Primitives.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.AppContext.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Concurrent.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Immutable.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.NonGeneric.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Specialized.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.Annotations.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Data.Common.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Contracts.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Debug.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.StackTrace.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Tools.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Tracing.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Dynamic.Runtime.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.Calendars.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.Extensions.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.Compression.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\ClrCompression.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.Compression.ZipFile.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.FileSystem.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.IsolatedStorage.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Expressions.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Parallel.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Queryable.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Http.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Http.Rtc.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.NetworkInformation.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Primitives.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Requests.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Sockets.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.WebHeaderCollection.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.Vectors.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ObjectModel.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.DataContractSerialization.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.Networking.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.ServiceModel.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.Uri.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Context.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.DispatchProxy.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Extensions.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Metadata.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Primitives.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.TypeExtensions.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Resources.ResourceManager.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Extensions.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Handles.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.InteropServices.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Numerics.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Json.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Claims.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Principal.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Duplex.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Http.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.NetTcp.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Primitives.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Security.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.CodePages.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.Extensions.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.RegularExpressions.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Overlapped.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Timer.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.ReaderWriter.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XDocument.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XmlDocument.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XmlSerializer.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Assembly-CSharp.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.winmd
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\GLTFSerializationUWP.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Newtonsoft.Json.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\nunit.framework.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AccessibilityModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AIModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Analytics.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AnimationModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ARModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AssetBundleModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AudioModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ClothModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CoreModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CrashReportingModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.DirectorModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GameCenterModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GridModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.HoloLens.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ImageConversionModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.IMGUIModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.InputModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.JSONSerializeModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Networking.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticlesLegacyModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticleSystemModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PerformanceReportingModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Physics2DModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PhysicsModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ScreenCaptureModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SharedInternalsModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpatialTracking.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteMaskModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteShapeModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StandardEvents.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StyleSheetsModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainPhysicsModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TextRenderingModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TilemapModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Timeline.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UI.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIElementsModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UNETModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityConnectModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestAudioModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestTextureModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VehiclesModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VideoModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VRModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WebModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WindModule.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.winmd
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineProxy.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer.winmd
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTBridge.winmd
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTLegacy.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TextRenderingModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainPhysicsModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TilemapModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIElementsModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SharedInternalsModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ScreenCaptureModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteMaskModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StyleSheetsModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteShapeModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VideoModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VehiclesModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestWWWModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VRModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WindModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WebModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityAnalyticsModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UNETModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityConnectModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestTextureModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestAudioModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PhysicsModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AssetBundleModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ARModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AnimationModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AudioModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CrashReportingModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CoreModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ClothModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Assembly-CSharp.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AIModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AccessibilityModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.JSONSerializeModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.InputModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticlesLegacyModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Physics2DModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PerformanceReportingModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticleSystemModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GameCenterModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.DirectorModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GridModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.IMGUIModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ImageConversionModule.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\Newtonsoft.Json.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Timeline.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\nunit.framework.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UI.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpatialTracking.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Analytics.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.HoloLens.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StandardEvents.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Networking.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\GLTFSerializationUWP.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer_UAP_x86_Release_dotnet.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTBridge.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.dll
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineProxy.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csprojResolveAssemblyReference.cache
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.CoreCompileInputs.cache
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.CopyComplete
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.exe
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.pdb
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\ResourceHandlingTask.state
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.Microsoft.CSharp.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.Microsoft.VisualBasic.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.AppContext.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Concurrent.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Immutable.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.NonGeneric.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Specialized.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Data.Common.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Diagnostics.Debug.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Dynamic.Runtime.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Globalization.Extensions.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.Compression.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.FileSystem.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Expressions.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Parallel.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Queryable.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.Http.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.Requests.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Numerics.Vectors.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ObjectModel.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.Networking.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.ServiceModel.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.Uri.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.Context.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.Metadata.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Extensions.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.InteropServices.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Numerics.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Claims.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Text.RegularExpressions.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Overlapped.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XDocument.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XmlDocument.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\priconfig.xml
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\priconfig.xml.intermediate
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\layout.resfiles
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\layout.resfiles.intermediate
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\resources.resfiles
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\resources.resfiles.intermediate
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\pri.resfiles
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\pri.resfiles.intermediate
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\qualifiers.txt
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\qualifiers.txt.intermediate
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\docs\CODE\hololens test video capture\testVideoCapture\App\testVideoCapture\obj\x86\Release\ProjectArchitectures.txt
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.exe
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\resources.pri
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\AppxManifest.xml
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Core\AppxManifest.xml
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Core\testVideoCapture.exe
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.build.appxrecipe
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.CSharp.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Core.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Web.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Windows.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.Linq.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.Serialization.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.VisualBasic.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.Win32.Primitives.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.AppContext.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Concurrent.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Immutable.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.NonGeneric.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Specialized.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.Annotations.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Data.Common.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Contracts.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Debug.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.StackTrace.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Tools.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Tracing.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Dynamic.Runtime.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.Calendars.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.Extensions.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.Compression.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\ClrCompression.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.Compression.ZipFile.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.FileSystem.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.IsolatedStorage.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Expressions.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Parallel.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Queryable.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Http.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Http.Rtc.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.NetworkInformation.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Primitives.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Requests.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Sockets.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.WebHeaderCollection.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.Vectors.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ObjectModel.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.DataContractSerialization.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.Networking.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.ServiceModel.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.Uri.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Context.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.DispatchProxy.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Extensions.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Metadata.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Primitives.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.TypeExtensions.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Resources.ResourceManager.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Extensions.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Handles.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.InteropServices.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Numerics.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Json.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Claims.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Principal.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Duplex.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Http.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.NetTcp.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Primitives.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Security.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.CodePages.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.Extensions.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.RegularExpressions.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Overlapped.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Timer.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.ReaderWriter.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XDocument.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XmlDocument.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XmlSerializer.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Assembly-CSharp.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.winmd
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\GLTFSerializationUWP.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Newtonsoft.Json.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\nunit.framework.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AccessibilityModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AIModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Analytics.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AnimationModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ARModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AssetBundleModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AudioModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ClothModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CoreModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CrashReportingModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.DirectorModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GameCenterModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GridModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.HoloLens.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ImageConversionModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.IMGUIModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.InputModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.JSONSerializeModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Networking.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticlesLegacyModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticleSystemModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PerformanceReportingModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Physics2DModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PhysicsModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ScreenCaptureModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SharedInternalsModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpatialTracking.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteMaskModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteShapeModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StandardEvents.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StyleSheetsModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainPhysicsModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TextRenderingModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TilemapModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Timeline.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UI.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIElementsModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UNETModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityConnectModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestAudioModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestTextureModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VehiclesModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VideoModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VRModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WebModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WindModule.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.winmd
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineProxy.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer.winmd
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTBridge.winmd
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTLegacy.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TextRenderingModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainPhysicsModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TilemapModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIElementsModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SharedInternalsModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ScreenCaptureModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteMaskModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StyleSheetsModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteShapeModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VideoModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VehiclesModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestWWWModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VRModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WindModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WebModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityAnalyticsModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UNETModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityConnectModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestTextureModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestAudioModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PhysicsModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AssetBundleModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ARModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AnimationModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AudioModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CrashReportingModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CoreModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ClothModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Assembly-CSharp.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AIModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AccessibilityModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.JSONSerializeModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.InputModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticlesLegacyModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Physics2DModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PerformanceReportingModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticleSystemModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GameCenterModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.DirectorModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GridModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.IMGUIModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ImageConversionModule.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Newtonsoft.Json.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Timeline.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\nunit.framework.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UI.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpatialTracking.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Analytics.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.HoloLens.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StandardEvents.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Networking.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\GLTFSerializationUWP.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer_UAP_x86_Release_dotnet.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTBridge.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineProxy.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csprojResolveAssemblyReference.cache
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.CoreCompileInputs.cache
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.CopyComplete
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.exe
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.pdb
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\ResourceHandlingTask.state
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.Microsoft.CSharp.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.Microsoft.VisualBasic.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.AppContext.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Concurrent.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Immutable.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.NonGeneric.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Specialized.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Data.Common.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Diagnostics.Debug.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Dynamic.Runtime.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Globalization.Extensions.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.Compression.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.FileSystem.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Expressions.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Parallel.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Queryable.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.Http.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.Requests.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Numerics.Vectors.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ObjectModel.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.Networking.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.ServiceModel.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.Uri.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.Context.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.Metadata.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Extensions.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.InteropServices.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Numerics.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Claims.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Text.RegularExpressions.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Overlapped.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XDocument.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XmlDocument.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\priconfig.xml
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\priconfig.xml.intermediate
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\layout.resfiles
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\layout.resfiles.intermediate
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\resources.resfiles
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\resources.resfiles.intermediate
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\pri.resfiles
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\pri.resfiles.intermediate
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\qualifiers.txt
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\qualifiers.txt.intermediate
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\ProjectArchitectures.txt
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.Azure.Amqp.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.Azure.EventHubs.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\docs\REPOS\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.GenerateResource.Cache
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.exe
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\resources.pri
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\AppxManifest.xml
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Core\AppxManifest.xml
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Core\testVideoCapture.exe
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\testVideoCapture.build.appxrecipe
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.CSharp.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Core.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Web.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Windows.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.Linq.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.Serialization.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.VisualBasic.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.Win32.Primitives.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.AppContext.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Concurrent.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Immutable.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.NonGeneric.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Collections.Specialized.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.Annotations.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Data.Common.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Contracts.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Debug.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.StackTrace.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Tools.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Diagnostics.Tracing.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Dynamic.Runtime.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.Calendars.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Globalization.Extensions.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.Compression.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\ClrCompression.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.Compression.ZipFile.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.FileSystem.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.IsolatedStorage.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Expressions.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Parallel.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Linq.Queryable.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Http.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Http.Rtc.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.NetworkInformation.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Primitives.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Requests.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.Sockets.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Net.WebHeaderCollection.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.Vectors.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ObjectModel.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.DataContractSerialization.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.Networking.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.ServiceModel.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Private.Uri.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Context.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.DispatchProxy.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Extensions.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Metadata.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.Primitives.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Reflection.TypeExtensions.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Resources.ResourceManager.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Extensions.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Handles.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.InteropServices.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Numerics.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Json.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Claims.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Principal.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Duplex.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Http.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.NetTcp.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Primitives.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.ServiceModel.Security.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.CodePages.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.Encoding.Extensions.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Text.RegularExpressions.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Overlapped.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Threading.Timer.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.ReaderWriter.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XDocument.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XmlDocument.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Xml.XmlSerializer.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Assembly-CSharp.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.winmd
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\GLTFSerializationUWP.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.Azure.Amqp.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Microsoft.Azure.EventHubs.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Newtonsoft.Json.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\nunit.framework.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AccessibilityModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AIModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Analytics.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AnimationModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ARModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AssetBundleModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AudioModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ClothModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CoreModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CrashReportingModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.DirectorModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GameCenterModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GridModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.HoloLens.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ImageConversionModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.IMGUIModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.InputModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.JSONSerializeModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Networking.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticlesLegacyModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticleSystemModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PerformanceReportingModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Physics2DModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PhysicsModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ScreenCaptureModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SharedInternalsModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpatialTracking.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteMaskModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteShapeModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StandardEvents.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StyleSheetsModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainPhysicsModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TextRenderingModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TilemapModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Timeline.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UI.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIElementsModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UNETModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityConnectModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestAudioModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestTextureModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VehiclesModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VideoModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VRModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WebModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WindModule.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.winmd
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineProxy.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer.winmd
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTBridge.winmd
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTLegacy.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Assembly-CSharp.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StyleSheetsModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TerrainPhysicsModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TextRenderingModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.TilemapModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Physics2DModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PhysicsModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ScreenCaptureModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SharedInternalsModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteMaskModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpriteShapeModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestWWWModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VehiclesModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VideoModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.VRModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WebModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.WindModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestTextureModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIElementsModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UIModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UNETModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityAnalyticsModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityConnectModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestAudioModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UnityWebRequestModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.PerformanceReportingModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AccessibilityModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AIModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AnimationModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ARModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AssetBundleModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.AudioModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ImageConversionModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.IMGUIModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.InputModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.JSONSerializeModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticlesLegacyModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ParticleSystemModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.ClothModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CoreModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.CrashReportingModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.DirectorModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GameCenterModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.GridModule.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\Newtonsoft.Json.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Timeline.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\nunit.framework.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.UI.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.SpatialTracking.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Analytics.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.HoloLens.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.StandardEvents.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngine.Networking.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\GLTFSerializationUWP.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityPlayer_UAP_x86_Release_dotnet.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\WinRTBridge.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\BridgeInterface.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.dll
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineDelegates.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\bin\x86\Release\UnityEngineProxy.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csprojResolveAssemblyReference.cache
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.CoreCompileInputs.cache
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.CopyComplete
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.exe
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.pdb
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\ResourceHandlingTask.state
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.Microsoft.CSharp.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.Microsoft.VisualBasic.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.AppContext.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Concurrent.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Immutable.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.NonGeneric.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Collections.Specialized.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Data.Common.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Diagnostics.Debug.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Dynamic.Runtime.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Globalization.Extensions.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.Compression.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.FileSystem.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Expressions.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Parallel.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Linq.Queryable.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.Http.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.Requests.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Numerics.Vectors.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.ObjectModel.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.Networking.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.ServiceModel.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Private.Uri.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.Context.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Reflection.Metadata.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Extensions.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.InteropServices.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Numerics.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Claims.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Text.RegularExpressions.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Overlapped.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XDocument.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XmlDocument.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\testVideoCapture.csproj.GenerateResource.Cache
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\priconfig.xml
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\priconfig.xml.intermediate
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\layout.resfiles
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\layout.resfiles.intermediate
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\resources.resfiles
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\resources.resfiles.intermediate
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\pri.resfiles
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\pri.resfiles.intermediate
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\qualifiers.txt
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\qualifiers.txt.intermediate
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\obj\x86\Release\ProjectArchitectures.txt

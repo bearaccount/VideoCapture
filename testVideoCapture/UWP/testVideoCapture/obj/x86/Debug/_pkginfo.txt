@@ -1,0 +1,1 @@
+C:\docs\CODE\hololens test video capture\testVideoCapture\UWP\testVideoCapture\AppPackages\testVideoCapture_1.0.3.0_x86_Debug_Test\testVideoCapture_1.0.3.0_x86_Debug.appx

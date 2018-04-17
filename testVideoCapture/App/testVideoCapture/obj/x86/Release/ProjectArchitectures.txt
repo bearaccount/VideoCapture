@@ -1,0 +1,1 @@
+C:\docs\TEMP2\ar_event_light_control\testVideoCapture\App\testVideoCapture\testVideoCapture.csproj;x86
